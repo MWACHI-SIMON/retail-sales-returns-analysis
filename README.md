@@ -9,7 +9,7 @@ distinctive **returns** investigation.
 > Repository), real transaction data from a UK-based online retailer, used here
 > for portfolio purposes.
 
-This is the fourth project in a portfolio spanning two domains — finance
+This is my fourth project in a portfolio spanning two domains — finance
 ([SACCO SQL](https://github.com/MWACHI-SIMON/tujenge-sacco-sql-analysis),
 [default prediction](https://github.com/MWACHI-SIMON/tujenge-sacco-default-prediction),
 [dashboard](https://github.com/MWACHI-SIMON/tujenge-sacco-executive-dashboard))
